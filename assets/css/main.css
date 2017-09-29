@@ -1997,10 +1997,10 @@
 
 	#banner {
 		position: relative;
-		color: #fff;
+		color: #000;
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		text-align: center;
-		background: #000000 url("images/banner.svg") bottom center no-repeat;
+		background: #FAACA8 url("images/banner.svg") bottom center no-repeat;
 		padding: 5em 0 5em 0;
 		margin: 0;
 		background-size: 125% auto;
