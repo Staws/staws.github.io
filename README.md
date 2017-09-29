@@ -1,2 +1,2 @@
 # staws.github.io
-Make Staws your 🌟
+Make your Staws a 
