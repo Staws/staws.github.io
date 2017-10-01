@@ -1,6 +1,10 @@
 /*
-	Welltop by Nick Williamson
-	welltop.github.io | @koodeau
+	Staws Developments
+	staws.github.io | Staws Team
+
+	Code&Design:
+	Nick Williamson | @koodeau
+	© Copyright Staws Developments
 */
 
 (function($) {

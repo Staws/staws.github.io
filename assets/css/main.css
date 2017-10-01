@@ -2,8 +2,12 @@
 @import url("font-awesome.min.css");
 
 /*
-	Welltop by Nick Williamson
-	welltop.github.io | @koodeau
+	Staws Developments
+	staws.github.io | Staws Team
+
+	Code&Design:
+	Nick Williamson | @koodeau
+	© Copyright Staws Developments
 */
 
 /* Reset */
@@ -2530,3 +2534,119 @@
 			}
 
 	}
+
+
+
+
+
+/**
+ * ====================================
+ * Features Style 4  |||  Pricing
+ * ====================================
+ */
+.pricing-table .each-table .inner {
+  position: relative;
+  padding: 30px;
+  -webkit-transition: all 0.4s ease-out;
+  -moz-transition: all 0.4s ease-out;
+  -o-transition: all 0.4s ease-out;
+  -ms-transition: all 0.4s ease-out;
+  transition: all 0.4s ease-out;
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -o-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.pricing-table .each-table .inner .meta-price {
+  font-family: 'Lato', sans-serif;
+  font-size: 70px;
+  font-weight: 200;
+  line-height: 70px;
+  font-weight: 300;
+  margin-bottom: 0px;
+  margin-top: 25px;
+  color: #191919;
+  text-align: left;
+}
+.pricing-table .each-table .inner .category {
+  position: absolute;
+  left: 30px;
+  right: 30px;
+  top: 30px;
+  text-align: right !important;
+  font-family: 'Lato', sans-serif;
+  font-size: 48px;
+  line-height: 61px;
+  font-weight: 300;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 0.15);
+}
+.pricing-table .each-table .inner .nav {
+  padding-left: 0px;
+  margin-top: 40px;
+}
+.pricing-table .each-table .inner .nav li {
+  font-size: 16px;
+  line-height: 32px;
+  color: rgba(0, 0, 0, 0.75);
+  text-align: left;
+}
+.pricing-table .each-table .inner .btn-form {
+  margin-top: 50px;
+}
+.pricing-table .each-table .inner .btn-form .btn {
+  width: 100%;
+  min-width: 100px;
+}
+.pricing-table .each-table .inner .btn-form .btn.normal {
+  border-color: rgba(0, 0, 0, 0.4);
+}
+.pricing-table .each-table .inner .btn-form .btn.normal,
+.pricing-table .each-table .inner .btn-form .btn.normal .icon {
+  color: rgba(0, 0, 0, 0.5);
+  -webkit-transition: all 0.4s ease-out;
+  -moz-transition: all 0.4s ease-out;
+  -o-transition: all 0.4s ease-out;
+  -ms-transition: all 0.4s ease-out;
+  transition: all 0.4s ease-out;
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -o-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.pricing-table .each-table .inner .btn-form .btn.normal:hover {
+  background-color: #002ee7;
+  border-color: #002ee7;
+}
+.pricing-table .each-table .inner .btn-form .btn.normal:hover,
+.pricing-table .each-table .inner .btn-form .btn.normal:hover .icon {
+  color: #ffffff;
+}
+.pricing-table .each-table .inner:hover {
+  box-shadow: 10px 17.321px 57px 0px rgba(0, 0, 0, 0.08) ;
+  -moz-box-shadow: 10px 17.321px 57px 0px rgba(0, 0, 0, 0.08) ;
+  -webkit-box-shadow: 10px 17.321px 57px 0px rgba(0, 0, 0, 0.08) ;
+  -o-box-shadow: 10px 17.321px 57px 0px rgba(0, 0, 0, 0.08) ;
+}
+.pricing-table .each-table .inner:hover .btn-form .btn.normal {
+  border-color: #FAACA8;
+}
+.pricing-table .each-table .inner:hover .btn-form .btn.normal,
+.pricing-table .each-table .inner:hover .btn-form .btn.normal .icon {
+  color: #FAACA8;
+}
+.pricing-table .each-table .inner:hover .btn-form .btn.normal:hover {
+  background-color: #002ee7;
+  border-color: #002ee7;
+}
+.pricing-table .each-table .inner:hover .btn-form .btn.normal:hover,
+.pricing-table .each-table .inner:hover .btn-form .btn.normal:hover .icon {
+  color: #ffffff;
+}
