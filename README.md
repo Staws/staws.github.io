@@ -21,6 +21,9 @@ git clone https://github.com/Staws/staws.github.io.git
 git add file-name
 git commit -m "Your comment"
 git push
+
+git pull
+# and repeat if you want
 ```
 
 ## Versions
