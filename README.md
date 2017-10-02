@@ -28,7 +28,7 @@ git pull
 
 ## Versions
 `Staws.github.io` website version:
-* 3.x
+* 3.0.8
 
 Note: `Staws` uses GPL-3.0 license
 and our terms & conditions.
