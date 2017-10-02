@@ -11,9 +11,9 @@ Make Staws your 🌟
 ## Usage
 
 ```shell
-/*
-   Clone this repository
- */
+
+# Clone this repository
+
 git clone https://github.com/Staws/staws.github.io.git
 
 # make some changes
